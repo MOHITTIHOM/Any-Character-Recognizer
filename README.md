@@ -2,7 +2,7 @@
 ##Any Character recognizer with Hand-Written (or printed) dataset using sklearn and OpenCv libraries(in PyCharm). Project includes both training and prediction of the datasets.
 ###Windows setup:
       1)	Install python 2.7.
-      2)	Download OpenCv 3and extract it to C: drive. Copy cv2.pyd at c:/opencv/build/python/2.7/x86/   to python27/Lib/site-packages/
+      2)	Download OpenCv 3and extract it to C: drive. Copy cv2.pyd at "c:/opencv/build/python/2.7/x86/" to "python27/Lib/site-packages/"
       3)	Download and install
                   numpy-1.9.2-win32-superpack-python2.7,
                   scipy-0.14.0-win32-superpack-python2.7,
