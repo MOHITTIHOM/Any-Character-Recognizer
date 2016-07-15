@@ -8,7 +8,7 @@
                   scipy-0.14.0-win32-superpack-python2.7,
                   scikit-learn-0.17.win32-py2.7,
                   matplotlib-1.5.0.win32-py2.7.
-      4)	Download and install PyCharm.
-      5)	Open the respective files in Pycharm and run it.
+      4)	Download and install PyCharm.(optional)
+      5)	Open the respective files in python-idle/Pycharm and run it.
 
 This project is still under-dev phase with not 100% output accuracy
