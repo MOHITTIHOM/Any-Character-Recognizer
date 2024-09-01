@@ -11,4 +11,4 @@
       4)	Download and install PyCharm.(optional)
       5)	Open the respective files in python-idle/Pycharm and run it.
 
-This project is still under-dev phase with not 100% output accuracy
+
